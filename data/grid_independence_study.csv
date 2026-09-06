@@ -1,0 +1,15 @@
+﻿# 
+# 05/13/2023 21:11:34
+# The parameters defined in the project are:
+# ,P3 - Edge Sizing Number of Divisions,P1 - Mesh Nodes,P2 - Mesh Elements,P4 - outlet-pressure [Pa],P5 - output-pressure [Pa],P6 - pressure-average [Pa]
+# 
+# The following header line defines the name of the columns by reference to the parameters.
+Name,P3,P1,P2,P4,P5,P6
+DP 0,10,51031,280334,-646.72555,-646.72555,-646.72555
+DP 1,20,52741,288009,-129926.43,-129926.43,-129926.43
+DP 2,30,54902,298417,1655.0037,1655.0037,1655.0037
+DP 3,40,57396,310437,-2724.648,-2724.648,-2724.648
+DP 4,50,60252,324291,-6266.1061,-6266.1061,-6266.1061
+DP 5,60,62733,336162,-341182.88,-341182.88,-341182.88
+DP 6,70,65448,349698,-622505.96,-622505.96,-622505.96
+DP 7,80,68415,364105,-79.333335,-79.333335,-79.333335
